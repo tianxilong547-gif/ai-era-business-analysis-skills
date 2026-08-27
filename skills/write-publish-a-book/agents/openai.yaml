@@ -1,0 +1,4 @@
+interface:
+  display_name: "从构思到出版一本书"
+  short_description: "把模糊选题推进成可审查、可交付、可发行的完整书稿"
+  default_prompt: "使用 $write-publish-a-book，把我的想法推进为完整书稿和出版准备包。"
